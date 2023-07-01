@@ -475,7 +475,6 @@ PRODUCT_PACKAGES += \
     uimremoteserver \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
-    CarrierServices \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
